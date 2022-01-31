@@ -6,4 +6,4 @@ It will demonstrate triggering a merge conflict and working through resolving it
 
 Hello from Developer-B
 
-Testing in new branch changed by Developer - A
+Created Branch_0.1 for testing Branches and sending pull request.
