@@ -5,3 +5,5 @@ This exercise is designed to work with git in a team based environment.
 It will demonstrate triggering a merge conflict and working through resolving it.
 
 Hello from Developer-B
+
+Testing in new branch
