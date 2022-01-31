@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># merge-conflict-exercise\r\nExercise to resolve conflicts and merging code in collaboration\r\n\r\nThis exercise is designed to work with git in a team based environment.\r\nIt will demonstrate triggering a merge conflict and working through resolving it.\r\n\r\nHello from Developer-B\r\n\r\nCreated Branch_0.1 for testing Branches and sending pull request.\r\n\r\nChanges made by Huma. again Saira changing\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 5ee1ad4cea2b8b324a094a02483271aff262275b)
++++ b/README.md	(date 1643577576774)
+@@ -10,7 +10,7 @@
+ 
+ Changes made by Huma. again Saira changing
+ 
+-
++At line 13
+ 
+ 
+ 
